@@ -1,7 +1,9 @@
 # DirtyCLR
+![dirtyclr_logo](https://github.com/ipSlav/DirtyCLR/assets/63005335/12f5dca0-9489-4761-9810-12e92bbaec5d)
 
 An `App Domain Manager Injection` DLL PoC on steroids with a clean Thread Call Stack and no direct WinAPI calls.<br>
 More information about this tool and how it can be used can be found in the [Let Me Manage Your AppDomain](https://ipslav.github.io/2023-12-12-let-me-manage-your-appdomain/) blogpost.
+
 
 ## Usage guide:
 > This project already contains a `key.snk` and an `enc.bin` msfvenom messagebox payload
