@@ -1,7 +1,7 @@
 # DirtyCLR
 > This research has been possibile with the support of [Shielder](https://www.shielder.com/) who has sponsored this research with the goal to discover new ways of blend-in within legitimate applications and raise awareness about uncovered sophisticated attack venues, contributing to the security of the digital ecosystem.
 Shielder invests from 25% to 100% of employees time into Security Research and R&D, whose output can be seen in its [advisories](https://www.shielder.com/advisories/) and [blog](https://www.shielder.com/blog/).
-If you like the type of research that is being published, and you would like to uncover unexplored attacks and vulnerabilities, do not hesitate to [reach out](info@shielder.com).
+If you like the type of research that is being published, and you would like to uncover unexplored attacks and vulnerabilities, do not hesitate to [reach out](mailto:info@shielder.com).
 
 ![dirtyclr_logo](https://github.com/ipSlav/DirtyCLR/assets/63005335/12f5dca0-9489-4761-9810-12e92bbaec5d)
 
